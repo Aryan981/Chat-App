@@ -1,4 +1,4 @@
-# Chat-App🌟 MingleMate
+# 🌟Chat-App
 
 MingleMate is a real-time chat application built with React.js, Tailwind CSS, DaisyUI, Node.js, Express, MongoDB, and Socket.IO. It allows users to connect, chat, and share moments seamlessly.
 
