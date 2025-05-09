@@ -38,7 +38,6 @@ Cloudinary
 
 ## 🖌️ UI Preview
 
-![MingleMate UI](https://via.placeholder.com/800x400.png?text=MingleMate+Preview)
 <img width="1470" alt="Screenshot 2025-03-10 at 4 24 04 PM" src="https://github.com/user-attachments/assets/85c1421c-6f59-4391-8d1e-3eb733813ba5" />
 ![image](https://github.com/user-attachments/assets/89aec5e1-fcc2-4903-a694-bc618b1f3921)
 ![image](https://github.com/user-attachments/assets/b1287958-d710-4c3a-9292-3904193e312c)
